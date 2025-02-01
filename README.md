@@ -1,1 +1,2 @@
-# FRC_robot_CAD_2025
+## Here is a small repo with the CAD for my team's frc robot for the 2025 season: REEFSCAPE
+## *For the most recent version of our robot go to this [link](https://cad.onshape.com/documents/cdc3978321efdb5dcb446a2b/w/0f0602424b712746faa06eb0/e/d91bac0954e2d5ce725f021e?renderMode=0&uiState=679d662d7e1aa210efff04dc) and for the last stable version of the robot go [here](https://cad.onshape.com/documents/058f0a36f71093792b5c362c/w/c4a1d804ab102f9452c2fd37/e/4a84cd70993b39eb78c2ef63)*
